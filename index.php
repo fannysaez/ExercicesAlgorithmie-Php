@@ -34,6 +34,7 @@
 
       <section class="button-container">
         <a class="btn-grad" href="exercices/0.1.php">Exercice 0.1</a>
+        <a class="btn-grad" href="exercices/0.2.php">Exercice 0.2</a>
       </section>
     </main>
     
