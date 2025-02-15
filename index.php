@@ -36,7 +36,8 @@
         <a class="btn-grad" href="exercices/0.1.php">Exercice 0.1</a>
         <a class="btn-grad" href="exercices/0.2.php">Exercice 0.2</a>
         <a class="btn-grad" href="exercices/0.3.php">Exercice 0.3</a>
-        <a class="btn-grad" href="exercices/0.4.php">Exercice 0.4</a>
+        <a class="btn-grad" href="exercices/0.4.php">Exercice 0.4</a><br>
+        <a class="btn-grad" href="exercices/1.php">Exercice 1</a>
       </section>
     </main>
     
